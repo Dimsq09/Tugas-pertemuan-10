@@ -14,7 +14,7 @@ import java.util.Scanner;
  */
 public class Game {
 
-    private int secretNumber;
+     int secretNumber;
     private int guessLimit;
 
     public Game(int guessLimit) {
